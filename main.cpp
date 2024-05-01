@@ -5,6 +5,7 @@
 
 // C Libraries
 #include <stdio.h>
+#include <math.h>
 
 // My Headers
 #include "fourfunction.h"
